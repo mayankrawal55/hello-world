@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>Welcome to Mayank and Mrinmayi ki shadi</h1>
+    <p>Please fill the form to give your availability.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -28,10 +28,10 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account?but not willing to come? Fuck off <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> and if coming most welcome  </h1>
 
   
 </form>
